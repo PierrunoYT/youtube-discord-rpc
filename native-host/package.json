@@ -1,0 +1,13 @@
+{
+  "name": "youtube-discord-rpc-host",
+  "version": "1.0.0",
+  "description": "Native messaging host for YouTube Discord RPC",
+  "main": "host.js",
+  "scripts": {
+    "start": "node host.js"
+  },
+  "dependencies": {
+    "@discordjs/collection": "^2.1.1",
+    "ws": "^8.18.0"
+  }
+}

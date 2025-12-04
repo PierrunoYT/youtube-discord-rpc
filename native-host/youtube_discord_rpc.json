@@ -1,0 +1,7 @@
+{
+  "name": "youtube_discord_rpc",
+  "description": "YouTube Discord RPC Native Host",
+  "path": "D:\\Github\\DiscordRPC\\native-host\\run-host.bat",
+  "type": "stdio",
+  "allowed_extensions": ["youtube-discord-rpc@example.com"]
+}
